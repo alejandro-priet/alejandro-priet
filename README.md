@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/twitter/follow/alejandropriet_?style=social
+
 <!--
 **alejandro-priet/alejandro-priet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
