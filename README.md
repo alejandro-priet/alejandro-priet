@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/alejandropriet_?style=social)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alejandro-priet/alejandro-priet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
