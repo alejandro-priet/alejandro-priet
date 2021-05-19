@@ -9,7 +9,8 @@
 - 🌱 Learning all about **Deep Learning**
 - 💬 Ping me about **robotics**, **biomechanics**, **game design**, **virtual reality**
 - 📫 Reach me: [twitter.com/alejandropriet_](https://twitter.com/alejandropriet_)
-- ⚡️ Fun fact: I'm a huge fan of " Müsli "
+- :scroll: Read my [Blog](https://alejandroprieto.tech)
+- ⚡️ Fun fact: I'm a huge huge fan of " Müsli "
 
 
 
