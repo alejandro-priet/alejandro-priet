@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Robotics Enginner studying in Braunschweig, Germany.
+#### I'm a Robotics Enginner working in Braunschweig, Germany.
 
 ##### BIO
 
