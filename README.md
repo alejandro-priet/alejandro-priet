@@ -4,7 +4,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **a3Ds as Python Dev**
+- 🏢 I'm currently working at **2kai as Python Dev**
 - 🌍 I'm mostly active within the **Platzi Comunity**
 - 🌱 Learning all about **Deep Learning**
 - 💬 Ping me about **ML**, **Aerial Robotics**
